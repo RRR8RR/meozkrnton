@@ -1,7 +1,7 @@
 {
     "name": "Fox Music",
-    "description": "فوكس ميوزك افضلالسورسات العربيه.",
-    "logo": "https://telegra.ph/file/ba967503682a55beaedd3.png",
+    "description": "محمود ميوزك افضل السورسات العربيه.",
+    "logo": "https://telegra.ph/file/d5bfeb3063904eb6b4aba.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,23 +14,18 @@
     "stack": "container",
     "env": {
       "API_ID": {
-        "description": "الايبي ايدي حط ",
+        "description": "لا تغير مومهم هذا ",
         "value": "16228908",
         "required": true
       },
       "API_HASH": {
-        "description": "الايبي هاش حط",
+        "description": "ايضا مو مهم والله ",
         "value": "1e0ebcbec6fb07e5064f54797e0cadb5",
         "required": true          
       },
       "BOT_TOKEN": {
         "description": "توكن البوت حبببي",
         "value": "",
-        "required": true
-      },
-      "START_IMG_URL": {
-        "description": "صورة الستارت",
-        "value": "https://telegra.ph/file/911a6335a2e3c796659b1.jpg",
         "required": true
       },
       "OWNER_ID": {
@@ -45,7 +40,7 @@
           },
       "MUSIC_BOT_NAME": {
         "description": "اسم بوتك بالعربي",
-        "value": "توم",
+        "value": "محمود",
         "required": true
       },
       "STRING_SESSION": {
@@ -58,16 +53,6 @@
         "value": "",
         "required": false
       },
-      "ASS_US": {
-        "description": "يوزر حساب المساعد",
-        "value": "",
-        "required": false
-      },
-      "ASS_ID": {
-        "description": "ايدي حساب المساعد",
-        "value": "",
-        "required": false
-      },
 
       "HEROKU_APP_NAME": {
         "description": "اسم التطبيق اول فار",
@@ -76,7 +61,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "ايدي كروب السجل حطه",
-        "value": "-1002015243380",
+        "value": "-100",
         "required": true
       }
     },
