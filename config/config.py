@@ -20,7 +20,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
-USER_OWNER = getenv("USER_OWNER","IIIlIIv")
+USER_OWNER = getenv("USER_OWNER","VL_VO")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
 
@@ -40,14 +40,14 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ZZZ7iZ/AlexaMusic",
+    "https://github.com/ZZZ7iZ/-AlexaMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/H_M_Dr/45")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/h_m_dr")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/VL_VO")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/YY5Y8")
 MUST_JOIN = getenv("MUST_JOIN", None)
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
@@ -76,15 +76,15 @@ VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "3"))
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "30"))
 
 CHANNEL_SUDO = getenv(
-    "CHANNEL_SUDO", "H_M_Dr"
+    "CHANNEL_SUDO", "YY5Y8"
 )  # معرف قناتك بدون @
 
 YAFA_NAME = getenv(
-    "YAFA_NAME", "‹ سورس نيكست ›"
+    "YAFA_NAME", "‹ سورس محمود ›"
 )  # اسم قناتك
 
 YAFA_CHANNEL = getenv(
-   " YAFA_CHANNEL", "https://t.me/H_M_Dr"
+   " YAFA_CHANNEL", "https://t.me/YY5Y8"
 )  # رابط قناتك
 
 PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "25"))
@@ -115,7 +115,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/3dd59102dc041f36e28d2.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/d5bfeb3063904eb6b4aba.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
